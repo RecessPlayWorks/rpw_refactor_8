@@ -29,7 +29,7 @@
     "gatsby-source-contentful": "^2.1.73",
     "gatsby-source-filesystem": "^2.1.42",
     "gatsby-source-instagram": "^0.6.1",
-    "gatsby-transformer-remark": "^2.6.44",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.3.9",
     "google-map-react": "^1.1.5",
     "gsap": "^3.0.4",
